@@ -8,3 +8,9 @@ spigin12.com
 "super.spigin10.com
 ||superrrr.spigin11.com
 spigin12.com
+
+"super.spigin0.com
+||superrrr.spigin11.com
+spigin12.com
+
+spigin13.com
